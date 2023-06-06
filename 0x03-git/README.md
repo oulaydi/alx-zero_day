@@ -1,4 +1,4 @@
-#Learning Objectives
+# Learning Objectives 👏
 
 ## Hi, my name is Oussama Oulaydi!
 
